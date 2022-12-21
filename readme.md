@@ -1,5 +1,5 @@
 ## Word Count App (Javascript Project-04)  
-[Live Link]()
+[Live Link](https://wordcountapp04.netlify.app/)
 
 **Name:** Aniket Shahare
 
